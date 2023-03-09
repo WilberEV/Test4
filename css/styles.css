@@ -27,13 +27,37 @@ display: flex;
 
         background-color: white;
         display: flex;
+
+        justify-content: center;
+        align-items: center;
     }
         #cuadroI{
+            height: 14em;
+            width: 14em;
 
+            background-color: red;
+
+            display: flex;
+            justify-content: center;
+            align-items: center;
         }
             #cir2{
 
+                height: 14em;
+                width: 14em;
+                border-radius: 50%;
+        
+                background-color: white;
+                display: flex;
+        
+                justify-content: center;
+                align-items: center;
             }
                 #cir3{
-
+                    height: 12em;
+                    width: 12em;
+                    border-radius: 50%;
+            
+                    background-color: red;
+                    display: flex;
                 }
