@@ -13,9 +13,20 @@ body{
 
 #cuadroE{
 
+height: 20em;
+width: 20em;
+
+background-color: red;
+display: flex;
+
 }
     #cir1{
+        height: 20em;
+        width: 20em;
+        border-radius: 50%;
 
+        background-color: white;
+        display: flex;
     }
         #cuadroI{
 
@@ -24,5 +35,5 @@ body{
 
             }
                 #cir3{
-                    
+
                 }
