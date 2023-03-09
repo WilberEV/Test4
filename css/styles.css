@@ -16,6 +16,7 @@ body{
 height: 20em;
 width: 20em;
 
+border: 0.35em solid black;
 background-color: red;
 display: flex;
 
@@ -33,32 +34,37 @@ display: flex;
         align-items: center;
     }
         #cuadroI{
-            height: 14em;
-            width: 14em;
+            height: 13.35em;
+            width: 13.35em;
 
-            background-color: black;
-
+            background-color: gray;
+            border: 0.35em solid black;
+            
             display: flex;
             justify-content: center;
             align-items: center;
         }
             #cir2{
 
-                height: 14em;
-                width: 14em;
+                height: 13.35em;
+                width: 13.35em;
                 border-radius: 50%;
         
                 background-color: red;
+                border: 0.35em solid black;
+
                 display: flex;
         
                 justify-content: center;
                 align-items: center;
             }
                 #cir3{
-                    height: 11em;
-                    width: 11em;
+                    height: 10.35em;
+                    width: 10.35em;
                     border-radius: 50%;
             
                     background-color: white;
+                    border: 0.35em solid black;
+
                     display: flex;
                 }
