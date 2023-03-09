@@ -21,9 +21,10 @@ display: flex;
 
 }
     #cir1{
-        height: 20em;
-        width: 20em;
+        height: 19.35em;
+        width: 19.35em;
         border-radius: 50%;
+        border: 0.35em solid black;
 
         background-color: white;
         display: flex;
@@ -35,7 +36,7 @@ display: flex;
             height: 14em;
             width: 14em;
 
-            background-color: red;
+            background-color: black;
 
             display: flex;
             justify-content: center;
@@ -47,17 +48,17 @@ display: flex;
                 width: 14em;
                 border-radius: 50%;
         
-                background-color: white;
+                background-color: red;
                 display: flex;
         
                 justify-content: center;
                 align-items: center;
             }
                 #cir3{
-                    height: 12em;
-                    width: 12em;
+                    height: 11em;
+                    width: 11em;
                     border-radius: 50%;
             
-                    background-color: red;
+                    background-color: white;
                     display: flex;
                 }
